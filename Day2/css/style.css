@@ -1,0 +1,113 @@
+.pfig{
+    
+    background-image: url("img/canvas-81504_960_720.jpg");
+    min-height: 100%;
+
+}
+.pfig1{
+    background-image: url("img/images.jpg");
+    min-height: 100%;
+}
+.pfig2{
+    background-image: url("../img/canvas-81504_960_720.jpg");
+    min-height: 100%;
+}
+.pfig3{
+    background-image: url("../img/images.jpg");
+    min-height: 100%;
+}
+.pfig , .pfig1 , .pfig2 , .pfig3{
+
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section{
+    width:100%;
+    height:400px;
+}
+.caption span.border {
+    background-color: #111;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;}
+    
+.captain
+{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+
+h1{
+    background-color: #111;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+}
+.pdescrp{
+    text-align: center;
+}
+
+/*end of para file
+*/
+.container_12{
+    background-color: white;
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 10px;
+    border: 30px;
+    font-size: 100%;
+}
+ul li {
+        display: inline;
+        padding: 0px;
+       
+    }
+ul a{
+    text-decoration: blue;
+}
+.parallax{
+    background-image: url("../img/canvas-81504_960_720.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    font-size: 30px;
+    background-color: burlywood;
+    background-image: url("image_1602.jpeg");
+    min-height: 100px;
+    background-attachment: scroll;
+    min-height: 10px;
+}
+h2{
+    font-size: 30px;
+    background-image: url("olive-oil-601487_960_720.jpg");
+    min-height: 400px;
+    background-attachment: scroll;
+}
+
+p{
+    font-size: 15px;
+}
+.footer {
+    margin: 0px auto;
+    padding-bottom: 60px;
+    width: 850px;
+
+}
+
+

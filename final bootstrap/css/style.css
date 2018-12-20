@@ -1,0 +1,85 @@
+ 
+body{
+    height: 100%;
+    width: 100%;
+    color: brown;
+    overflow-x: hidden;    
+}
+img{
+    max-width: 100%;
+
+}
+
+/* cover */
+#cover{
+    background: #222 url("img/canvas-81504_960_720.jpg")  no-repeat;
+    background-size: cover;
+    color: saddlebrown;
+    height: 900px;
+    display: flex;
+    text-align: center;
+}
+#cover-caption{
+    width: 100%;
+}
+nav{
+    width: 100%;
+}
+section{
+    padding: 3rem 0;
+}
+p{
+    font-family: 'standard', cursive;
+}
+
+#about{
+background-color: whitesmoke;
+    -webkit-text-fill-color: black;
+    text-align: left;
+  
+}
+
+about-text{
+    background: rgb(0,0,0,0.8);
+    color: white;
+    padding: 1.875rem;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  } 
+  #Map{
+      margin: auto;
+      padding: auto;
+
+  } 
+.footer {
+    margin-bottom:  auto;
+    padding-top: auto;
+
+}
+#social li{
+    display: inline;
+    text-decoration: none;
+}
